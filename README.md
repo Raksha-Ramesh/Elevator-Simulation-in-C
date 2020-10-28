@@ -6,4 +6,5 @@ It takes care of the maximum capacity of the life and the exit/entry of multiple
 A priority doubly-linked list was used for the implementation. 
 
 ## Execution
+Run the following commands:
 ``` gcc elevator.c```
